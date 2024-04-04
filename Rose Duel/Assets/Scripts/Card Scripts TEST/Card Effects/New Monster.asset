@@ -27,7 +27,7 @@ MonoBehaviour:
   card_image: {fileID: 0}
   card_artist: 
   Card_Effects:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 65105b155edb5bc419f4c4708d67008b, type: 2}
   - {fileID: 0}
   Attack: 0
   Defense: 0
