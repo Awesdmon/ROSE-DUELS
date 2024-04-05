@@ -9,25 +9,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 990ad39c25bbce247b2a351c64ccc79c, type: 3}
-  m_Name: Blenderbeard
+  m_Script: {fileID: 11500000, guid: 1d71601478e56af4ab0ebcd27fffcffc, type: 3}
+  m_Name: Test Skill
   m_EditorClassIdentifier: 
-  card_name: Blenderbeard
-  card_description: 
-  card_cost: 2
-  Speed: 2
+  card_name: First Mate
+  card_description: Yar har matey
+  card_cost: 1
+  Speed: 1
   card_tags:
-  - Kitchen
+  - Skill
   - Pirate
   - 
   - 
   - 
   face_up: 0
   attack_position: 0
-  card_image: {fileID: 21300000, guid: 2b5dc2587f164114e8797de3d2a76e37, type: 3}
+  card_image: {fileID: 0}
   card_artist: 
   Card_Effects:
   - {fileID: 0}
   - {fileID: 0}
-  Attack: 3
-  Defense: 2
