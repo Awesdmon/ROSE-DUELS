@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d1f41c519e19c43a90bd034d570913, type: 3}
+  m_Name: Avast Yeast Matey
+  m_EditorClassIdentifier: 
+  card_ID: 0
+  card_name: Avast Yeast Matey
+  card_description: 'The SPD of opponent''s adjacent monsters are reduced by 2 until
+    the end of the opponent''s next turn.
+
+
+    Shield Check: Activate THIS anywhere
+    on the board.'
+  card_cost: 2
+  Speed: 1
+  card_tags:
+  - 
+  - 
+  - 
+  - 
+  - 
+  face_up: 0
+  attack_position: 0
+  movedThisTurn: 0
+  attackedThisTurn: 0
+  card_image: {fileID: 0}
+  card_artist: 
+  Card_Effects:
+  - {fileID: 0}
+  - {fileID: 0}

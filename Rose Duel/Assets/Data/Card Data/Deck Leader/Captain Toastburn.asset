@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fa279b2f19323e4e8831245c1667acc, type: 3}
+  m_Name: Captain Toastburn
+  m_EditorClassIdentifier: 
+  card_name: Captain Toastburn
+  card_description: 'Ranged
+
+
+    On Move: Move 1 other Kitchen or Pirate Monster
+    up to 3 tiles. '
+  card_cost: 0
+  Speed: 3
+  card_tags:
+  - Kitchen
+  - Pirate
+  - 
+  - 
+  - 
+  face_up: 0
+  attack_position: 0
+  card_image: {fileID: 0}
+  card_artist: 
+  Card_Effects:
+  - {fileID: 0}
+  - {fileID: 0}
+  Attack: 3
